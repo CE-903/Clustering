@@ -10,7 +10,7 @@ setup(
     version="0.0.1",
     author="Varun Dutt",
     author_email="varun9213@gmail.com",
-    description="A package to convert your Jupyter Notebook",
+    description="A package for clustering",
     long_description=readme,
     long_description_content_type="text/markdown",
     url="https://github.com/your_package/homepage/",
